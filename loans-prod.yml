@@ -4,7 +4,7 @@ build:
 loans:
   message: "Hey, welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Ilya Lisin2 - Product Owner"
+    name: "Ilya Lisin - Product Owner"
     email: "{cipher}625713b84966983f2f9c619a529018c51d3131ee650a582ff4cd5bc69bafd720d19abe16c867caa572e86ae4f5e880aa"
   onCallSupport:
     - (723) 656-8709
