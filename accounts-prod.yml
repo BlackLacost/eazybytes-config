@@ -1,10 +1,10 @@
 build:
-  version: "1.4"
+  version: "1"
 
 accounts:
   message: "Hey, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
-    name: "Ilya Lisin5 - Product Owner"
+    name: "Ilya Lisin - Product Owner"
     email: "{cipher}625713b84966983f2f9c619a529018c51d3131ee650a582ff4cd5bc69bafd720d19abe16c867caa572e86ae4f5e880aa"
   onCallSupport:
     - (453) 392-4829
